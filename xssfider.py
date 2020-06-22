@@ -1,7 +1,7 @@
 import requests
 
 
-header = {"Cookie" : "security=low; PHPSESSID=49fc3aa4eaf5909a17f2b5bc3870d3c4"}
+header = {"Cookie" : "security=low; "}
 payload = ["<h1>kale</h1>","<sccript>alert(1);</script>"]
 
 
